@@ -24,14 +24,22 @@
 \end{abstract}
 
 
-
 \section{Introducción}
 En la presente práctica usaremos el código de simulación Monte Carlo PENELOPE para estudiar dos aspectos relacionados con el PET. En primera instancia se estudiará la distribución de posiciones de aniquilación de los positrones emitidos considerando un espectro continuo, y en segunda instancia se considera una fuente monoenergética con energía igual a la energía máxima del espectro para diferentes radionúclidos emisores $\beta^+$ (\ce{^{11}C}, \ce{^{13}N}, \ce{^{15}O}, \ce{^{18}F}, \ce{^{82}Rb} y \ce{^{68}Ga}). Se hará un segundo estudio considerando una geometría esférica ideal que simula la cabeza de un paciente donde se analizará el espectro de los fotones que llegan al detector como consecuencia de aniquilación de los positrones. Para ambos estudios se utilizará los radionúclidos que constan en la Tabla \ref{radio}, y en el segundo estudio además se variará la geometría para observar sus efectos en la superficie detectora.
 
 \section{Tomografía por emisión de positrones (PET)}
 Es una técnica diagnóstica de medicina  nuclear que se basa en la detección de los rayos gamma de 511 keV que se generan en la aniquilación de los positrones que emite un determinado radiofármaco inyectado previamente a un paciente. Una vez inyectado el radiofármaco al paciente, se sitúa éste en un detector de rayos gamma con una electrónica que permite realizar análisis de coincidencias.
+\begin{equation}
+DBE=-\frac{\log S}{\alpha}=nd\Big(1+\frac{d}{\alpha/\beta}\Big)
+\end{equation}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5\linewidth]{aniquila}
+	\caption{Esquema de detección de un par de fotones en coincidencia.}
+	\label{fig:aniquila}
+\end{figure}
 
-Los positrones  emitidos recorrerán una pequeña distancia y se aniquilarán con algún electrón del medio produciendo dos fotones de 511 keV colineales como se observa en la \textbf{figura siguiente}.
+Los positrones  emitidos recorrerán una pequeña distancia y se aniquilarán con algún electrón del medio produciendo dos fotones de 511 keV colineales como se observa en la \ref{fig:aniquila}.
 \section{Radionúclidos emisores $\beta^+$}
 La tomografía por emisión de positrones requiere biomoléculas marcadas con isótopos emisores de positrones. Estos radionúclidos son isótopos inestables con un exceso de protones que tienden a la estabilidad transformando protones en neutrones, conviertiéndose en otro elemento de vida media corta. El \ce{^{18}F} es uno de los varios isótopos del flúor que se utilizan habitualmente en el radiomarcado de biomoléculas para la PET debido a su capacidad de emisión de positrones y semivida de 109.8 min \textbf{cita 1}. El radiofármaco más comúnmente usado es el flúordeoxiglucosa (\ce{FDG}) para la detección temprana de tumores malignos, gracias al mayor índice glicolítico que poseen las células neoplásicas \textbf{cita 2}.
 
