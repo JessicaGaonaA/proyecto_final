@@ -18,9 +18,9 @@
 \maketitle
 \date
 \begin{abstract}
-	La simulación por emisión de positrones nos permite analizar \ldots
-	
-	Este trabajo completo conjuntamente con todos los archivos que utiliza el documento .tex lo podemos encontrar en un repositorio que ha sido creado para tal efecto y su enlace es el siguiente \url{https://github.com/JessicaGaonaA/proyecto_final.git}. Este documento .tex contiene a lo largo del artículo todos los aspectos que recomienda el profesor del curso para la elaboración del artículo: título, resumen, palabras clave, introducción, estado del arte, imágenes y tablas, fórmulas y bibliografía.
+	Este trabajo completo conjuntamente con todos los archivos que utiliza el documento .tex lo podemos encontrar en un repositorio que ha sido creado para tal efecto y su enlace es el siguiente \url{https://github.com/JessicaGaonaA/proyecto_final.git}. Este documento .tex contiene a lo largo del artículo todos los aspectos que recomienda el profesor del curso para la elaboración del artículo: título, resumen, palabras clave, introducción, estado del arte, imágenes y tablas, fórmulas y bibliografía.\\
+	\\
+	\textbf{Palabras clave:} Tomografía por emisión de positrones,  radionúclidos emisores $\beta^+$, código PENELOPE.
 	
 \end{abstract}
 
@@ -46,7 +46,7 @@ La tomografía por emisión de positrones requiere biomoléculas marcadas con is
 
 Entre los radionúclidos convencionales constan el \ce{^{11}C}, \ce{^{13}N}, \ce{^{15}O}, \ce{^{18}F}, y los añadidos en los últimos 12 años \ce{^{82}Rb} y \ce{^{68}Ga}. En la tabla \ref{radio} se observa el tiempo de semivida, energía máxima y alcance en agua de cada uno de los radionúclidos mencionados.
 
-\begin{table} [H]
+\begin{table} [h]
 	\begin{center}
 		\begin{tabular}{c c c c} 
 			\hline 
@@ -91,7 +91,7 @@ En la definición del archivo de entrada constan los parámetros que dirigen nue
 Tras la simulación en el espectro continuo se observa la distribución de posiciones de aniquilación electrón-positrón, mecanismo que se produce cuando los positrones emitidos por los radionúclidos interaccionan con un electrón en su camino dando origen a dos fotones que se desplazan colinealmente. En la figura \ref{fig:contrasteposfluor} se observa esta distribución donde el alcance de los positrones depende del alcance del radioisótopo usado. En la primera simulación para el caso  \ce{^{18}F} se ve que existe un alcance hasta aproximadamente 2.1 mm, y en el caso de la fuente monoenergética la distribución de posiciones se presenta desplazada hacia la izquierda con un máximo en 0.5 mm y un rango de [0, 0.7] mm.
 
 En el primer caso con el mismo radionúclido se visualiza un espectro energético continuo de los positrones emitidos, Figura 3, con un máximo en 203 keV. Al usar una fuente monoenergética en el espectro energético se visualiza un único pico en 252 keV, Figura 4. El máximo en el espectro continuo y usando la fuente monoenergética varía de acuerdo a la energía máxima de cada radioisótopo.
-\begin{figure}[h]
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=0.7\linewidth]{../proyecto_final/contrasteposfluor}
 	\caption{Posiciones de aniquilación de los positrones emitidos por el \ce{^{18}F}.}
