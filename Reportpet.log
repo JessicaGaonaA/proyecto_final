@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.30)  4 NOV 2019 11:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.30)  4 NOV 2019 12:11
 entering extended mode
 **./Reportpet.tex
 (Reportpet.tex
@@ -656,11 +656,6 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 18.
 ("C:\Users\jessi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (0.62602pt too wide) in paragraph at lines 20--21
-\OT1/cmr/m/n/10.95 askdn-dak-fad adkf-nad~nlf-nad dkfksfklsdnf sdb sdl slkdfnk 
-sdklfsnfklsn sldknsfkl lsnfksf
- []
-
 
 LaTeX Warning: Reference `radio' on page 1 undefined on input line 29.
 
@@ -696,7 +691,7 @@ LaTeX Warning: Reference `radio' on page 2 undefined on input line 47.
 
 LaTeX Warning: Reference `radio' on page 3 undefined on input line 53.
 
-<../proyecto_final/contrasteposfluor.pdf, id=43, 759.83875pt x 567.11874pt>
+<../proyecto_final/contrasteposfluor.pdf, id=46, 759.83875pt x 567.11874pt>
 File: ../proyecto_final/contrasteposfluor.pdf Graphic file (type pdf)
 <use ../proyecto_final/contrasteposfluor.pdf>
 Package pdftex.def Info: ../proyecto_final/contrasteposfluor.pdf  used on input
@@ -705,7 +700,7 @@ Package pdftex.def Info: ../proyecto_final/contrasteposfluor.pdf  used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../proyecto_final/1fluorcontene.pdf, id=44, 688.5725pt x 566.115pt>
+<../proyecto_final/1fluorcontene.pdf, id=47, 688.5725pt x 566.115pt>
 File: ../proyecto_final/1fluorcontene.pdf Graphic file (type pdf)
 <use ../proyecto_final/1fluorcontene.pdf>
 Package pdftex.def Info: ../proyecto_final/1fluorcontene.pdf  used on input lin
@@ -716,7 +711,7 @@ Overfull \hbox (1.71487pt too wide) in paragraph at lines 71--72
  [][] 
  []
 
-<../proyecto_final/1fluormonene.pdf, id=45, 688.5725pt x 568.1225pt>
+<../proyecto_final/1fluormonene.pdf, id=48, 688.5725pt x 568.1225pt>
 File: ../proyecto_final/1fluormonene.pdf Graphic file (type pdf)
 <use ../proyecto_final/1fluormonene.pdf>
 Package pdftex.def Info: ../proyecto_final/1fluormonene.pdf  used on input line
@@ -727,7 +722,7 @@ Overfull \hbox (1.71487pt too wide) in paragraph at lines 77--78
  [][] 
  []
 
-<../proyecto_final/ene_pos_media.pdf, id=47, 688.5725pt x 507.8975pt>
+<../proyecto_final/ene_pos_media.pdf, id=50, 688.5725pt x 507.8975pt>
 File: ../proyecto_final/ene_pos_media.pdf Graphic file (type pdf)
 <use ../proyecto_final/ene_pos_media.pdf>
 Package pdftex.def Info: ../proyecto_final/ene_pos_media.pdf  used on input lin
@@ -743,13 +738,13 @@ a.pdf
 pdfTeX warning: pdflatex.exe (file ../proyecto_final/ene_pos_media.pdf): PDF in
 clusion: multiple pdfs with page group included in a single page
 >]
-<../proyecto_final/fotonesdetectados.pdf, id=93, 903.375pt x 602.25pt>
+<../proyecto_final/fotonesdetectados.pdf, id=96, 903.375pt x 602.25pt>
 File: ../proyecto_final/fotonesdetectados.pdf Graphic file (type pdf)
 <use ../proyecto_final/fotonesdetectados.pdf>
 Package pdftex.def Info: ../proyecto_final/fotonesdetectados.pdf  used on input
  line 94.
 (pdftex.def)             Requested size: 318.66948pt x 212.44478pt.
-<025_05hueso.pdf, id=94, 688.5725pt x 602.25pt>
+<025_05hueso.pdf, id=97, 688.5725pt x 602.25pt>
 File: 025_05hueso.pdf Graphic file (type pdf)
 <use 025_05hueso.pdf>
 Package pdftex.def Info: 025_05hueso.pdf  used on input line 103.
@@ -759,7 +754,7 @@ Overfull \hbox (1.71487pt too wide) in paragraph at lines 103--104
  [][] 
  []
 
-<2sinhueso05cmhueso.pdf, id=95, 686.565pt x 572.1375pt>
+<2sinhueso05cmhueso.pdf, id=98, 686.565pt x 572.1375pt>
 File: 2sinhueso05cmhueso.pdf Graphic file (type pdf)
 <use 2sinhueso05cmhueso.pdf>
 Package pdftex.def Info: 2sinhueso05cmhueso.pdf  used on input line 110.
@@ -769,7 +764,7 @@ Overfull \hbox (1.11263pt too wide) in paragraph at lines 110--111
  [][] 
  []
 
-<2_nino5_vs_adulto.pdf, id=96, 689.57625pt x 566.115pt>
+<2_nino5_vs_adulto.pdf, id=99, 689.57625pt x 566.115pt>
 File: 2_nino5_vs_adulto.pdf Graphic file (type pdf)
 <use 2_nino5_vs_adulto.pdf>
 Package pdftex.def Info: 2_nino5_vs_adulto.pdf  used on input line 119.
@@ -779,7 +774,7 @@ Overfull \hbox (2.016pt too wide) in paragraph at lines 119--120
  [][] 
  []
 
-<2brainvswater.pdf, id=97, 688.5725pt x 569.12625pt>
+<2brainvswater.pdf, id=100, 688.5725pt x 569.12625pt>
 File: 2brainvswater.pdf Graphic file (type pdf)
 <use 2brainvswater.pdf>
 Package pdftex.def Info: 2brainvswater.pdf  used on input line 126.
@@ -820,11 +815,11 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 137.
  ) 
 Here is how much of TeX's memory you used:
- 17949 strings out of 492895
- 320250 string characters out of 3123735
+ 17957 strings out of 492895
+ 320374 string characters out of 3123735
  414740 words of memory out of 3000000
- 21707 multiletter control sequences out of 15000+200000
- 544848 words of font info for 73 fonts, out of 3000000 for 9000
+ 21714 multiletter control sequences out of 15000+200000
+ 546264 words of font info for 79 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,19n,63p,1010b,570s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/jessi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
@@ -835,10 +830,11 @@ onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/jessi/AppData/Local/Programs
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jess
 i/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C
 :/Users/jessi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmr8.pfb>
-Output written on Reportpet.pdf (6 pages, 356873 bytes).
+cmr8.pfb><C:/Users/jessi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmtt10.pfb>
+Output written on Reportpet.pdf (6 pages, 369169 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
+ 190 PDF objects out of 1000 (max. 8388607)
  27 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
